@@ -9,13 +9,13 @@
 
 ## How does it look like?
 ### general selector
-Selector {
+<p>Selector {
     property:vaule;
     .
     .
     .
     property:vaule;
-}
+}</p>
 
 #### Element selector
 The element selector reference all of the HTML elements that call in the same name,for example `<p>` `</p>` is a HTML paragrph element.
