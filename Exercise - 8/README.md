@@ -21,6 +21,7 @@ the selector be:
 p{<br/> 
     property:vaule; <br/> 
 }<br/> 
+<hr/>
 
 #### Class selector - (.)
 The Class selector reference all of the HTML elements with the same class name for example `<p class= "red_p">` `</p>` is a HTML paragrph element with class name.
