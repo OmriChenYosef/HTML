@@ -1,0 +1,33 @@
+h1{
+    font-style:italic;
+    color: cadetblue;
+    font-weight: bold;
+}
+
+.summary{
+    font-style:normal;
+    color: gray;
+}
+
+#admin{
+    font-style:italic;
+    color: black;
+    font-weight: bold;
+}
+li[draggable = "true"]{
+    color: rgb(0, 151, 0);
+    font-style: oblique;
+}
+li[draggable= "false" ]{
+    color: rgb(255, 0, 0);
+    font-style: oblique;
+}
+li{
+    color:rgb(126, 185, 224);
+}
+*{
+    color: green;
+}
+
+
+ 
