@@ -13,6 +13,7 @@ Selector{<br/>
     property:vaule;<br/> 
    
 }<br/> 
+<hr/>
 
 #### Element selector
 The element selector reference all of the HTML elements that call in the same name,for example `<p>` `</p>` is a HTML paragrph element.
