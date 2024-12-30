@@ -30,6 +30,7 @@ the selector be:
 .red_p{<br/> 
     color:red; <br/> 
 }<br/> 
+<hr/>
 
 #### Id selector - (#)
 The ID selector reference single HTML element with the same id for example `<p id= "Error">` `</p>` is a HTML paragrph element with uniq id name (can be apear only one).
@@ -39,6 +40,7 @@ the selector be:
 #Error{<br/> 
     color:red; <br/> 
 }<br/> 
+<hr/>
 
 #### Attribute selector - ( [] )
 The Attribute selector reference all HTML elements with the same Attribute for example `<a href = "www.google.com" >` `www.google.com` `</a>`.
@@ -50,6 +52,7 @@ a[`href`]{<br/>
 p[`draggable = True`]{<br/> 
     color:red; <br/> 
 }<br/> 
+<hr/>
 
 #### Universal selector - (*)
 That means apply for all the HTML file 
