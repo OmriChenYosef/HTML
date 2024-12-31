@@ -18,7 +18,6 @@ p{
      color: yellow;
 }
 
-### The result is:
 <hr />
-   
-<img src="./Asserts/images/Screenshot 2024-12-31 at 5.19.01.png">
+     <a href="https://omrichenyosef.github.io/HTML/Exercise1/index.html"> Click here
+            to result </a><br />
