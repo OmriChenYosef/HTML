@@ -4,4 +4,4 @@
 
 * Inline 
 * Internal
-* External
+* Externall
