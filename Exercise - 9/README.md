@@ -19,5 +19,5 @@ p{
 }
 
 <hr />
-     <a href="https://omrichenyosef.github.io/HTML/Exercise - 1/index.html"> Click here for the result.
+     <a href="https://omrichenyosef.github.io/HTML/Exercise - 9/index.html"> Click here for the result.
      </a><br />
