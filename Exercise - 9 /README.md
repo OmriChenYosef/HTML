@@ -6,6 +6,7 @@
 `<div class = "some-name">`<br />
 `<p> some content </p>`<br />
 `</div>`
+`<p> some content </p>`<br />
 
 
 #### style.css
