@@ -17,3 +17,8 @@ p{
 .some-name p{
      color: yellow;
 }
+
+### The result is:
+<hr />
+
+<img href="Exercise - 9 /Asserts/images/Screenshot 2024-12-31 at 5.19.01.png/200">
