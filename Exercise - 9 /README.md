@@ -21,4 +21,4 @@ p{
 ### The result is:
 <hr />
 
-<img src="Exercise - 9 /Asserts/images/Screenshot 2024-12-31 at 5.19.01.png">
+<img src="./Asserts/images/Screenshot 2024-12-31 at 5.19.01.png">
