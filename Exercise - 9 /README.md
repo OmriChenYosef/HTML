@@ -5,7 +5,7 @@
 #### index.html
 `<div class = "some-name">`<br />
 `<p> some content </p>`<br />
-`</div>`
+`</div>`<br />
 `<p> some content </p>`<br />
 
 
