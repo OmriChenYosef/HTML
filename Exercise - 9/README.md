@@ -20,6 +20,6 @@ p{
 
 ### The result is:
 <hr />
-     <a href="Exercise - 9/index.html"> Click here
+     <a href="https://github.com/OmriChenYosef/HTML/blob/main/Exercise%20-%209/index.html"> Click here
             to result - 9 </a><br />
 <img src="./Asserts/images/Screenshot 2024-12-31 at 5.19.01.png">
