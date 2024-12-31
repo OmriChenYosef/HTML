@@ -62,3 +62,6 @@ That means apply for all the HTML file
 *{<br/> 
     color:red; <br/> 
 }
+
+  <a href="https://omrichenyosef.github.io/HTML/Exercise - 8/index.html"> Click here for the result.
+     </a><br />
