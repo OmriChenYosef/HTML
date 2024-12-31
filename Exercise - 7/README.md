@@ -5,3 +5,7 @@
 * Inline 
 * Internal
 * Externall
+
+
+  <a href="https://omrichenyosef.github.io/HTML/Exercise - 7/index.html"> Click here for the result.
+     </a><br />
