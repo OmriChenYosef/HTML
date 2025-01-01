@@ -1,7 +1,45 @@
+
 p{
-    color: yellow;
+    color: rgb(239, 185, 20);
 }
 
+/* descendant*/
 .inner-box p {
     color: red;
 }
+
+/* childe only one level can apply*/
+.inner-box > p {
+    color: rgb(114, 7, 96);
+}
+
+/* childe */
+.inner-box > p {
+    color: rgb(37, 163, 96);
+}
+/* chaining */
+p.summary {
+    color: rgb(83, 3, 158);
+}
+
+/* descendant */
+div li{
+color: rgb(204, 84, 194);
+}
+
+/* chaining */
+li[value]#important{
+    color: blue;
+}
+
+li[value]{
+    color: rgb(32, 187, 196);
+}
+
+/* group */
+h1 , footer {
+    color: blue;
+}
+
+
+
