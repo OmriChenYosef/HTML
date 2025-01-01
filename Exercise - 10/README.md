@@ -12,5 +12,5 @@
 * top 
 * left 
 
- <a href="https://omrichenyosef.github.io/HTML/Exercise - 9/index.html"> Click here for the result.
-     </a><br />
+ <a href="https://omrichenyosef.github.io/HTML/Exercise - 10/index.html"> Click here for the result.
+    </a><br />
