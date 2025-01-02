@@ -2,23 +2,29 @@
 ## CSS Display propert
 ### There are 4 vaules of display
 
-* Block <hr/>
-<p>
-The block mode allows to change the size but do not put elements one after another
-</p>
+<ul>
+<li>Block
+    <p>
+        The block mode allows to change the size but do not put elements one after another
+    </p>
+</li>
 
-* Inline
-<p>
-The inline mode does'nt allow to change the size but allows put elements one after another
-</p>
+<li>Inline
+    <p>
+       The inline mode does'nt allow to change the size but allows put elements one after another
+    </p>
+</li>
 
-* Inline-block
-<p>
-The inline-block mode  allow to change the size & put elements one after another
-</p>
+<li>Inline-block
+    <p>
+       The inline-block mode  allow to change the size & put elements one after another
+    </p>
+</li>
 
-* None
 
+<li>None</li>
+
+</ul>
 
  <a href="https://omrichenyosef.github.io/HTML/Exercise - 11/index.html"> Click here for the result.
     </a><br />
