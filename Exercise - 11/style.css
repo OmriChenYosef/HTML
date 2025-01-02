@@ -6,6 +6,7 @@
     background-color: rebeccapurple;
     text-align: center;
     align-content: center;
+    border-radius: 10%;
 }
 
 .layout-two > p {
@@ -14,6 +15,7 @@
     height: 200px;/*can't impact on the size that mode*/
     background-color: yellowgreen;
     text-align: center;
+    border-radius: 5%;
 }
 
 .layout-three > p {
@@ -23,4 +25,5 @@
     background-color: aqua;
     text-align: center;
     align-content: center;
+    border-radius: 10%;
 }
