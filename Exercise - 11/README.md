@@ -1,5 +1,5 @@
 # In this seection we will learn
-## CSS Display propert
+## CSS Display property
 ### There are 4 vaules of display
 
 <ul>
