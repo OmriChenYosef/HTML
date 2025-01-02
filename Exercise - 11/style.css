@@ -22,7 +22,7 @@
     display: inline-block; /*default*/
     width: 200px;
     height: 100px;
-    background-color: aqua;
+    background-color: rgb(11, 142, 142);
     text-align: center;
     align-content: center;
     border-radius: 10%;
