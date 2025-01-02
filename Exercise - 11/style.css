@@ -1,0 +1,24 @@
+
+.layout-one > p {
+    display: block; /*default*/
+    width: 200px;
+    height: 100%;
+    background-color: rebeccapurple;
+    text-align: center;
+}
+
+.layout-two > p {
+    display: inline; /*default*/
+    width: 200px; /*can't impact on the size that mode*/
+    height: 100%;/*can't impact on the size that mode*/
+    background-color: yellowgreen;
+    text-align: center;
+}
+
+.layout-three > p {
+    display: inline-block; /*default*/
+    width: 200px;
+    height: 100%;
+    background-color: aqua;
+    text-align: center;
+}
