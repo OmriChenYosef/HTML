@@ -1,0 +1,36 @@
+
+h1{
+    text-align: center;
+    background-color: burlywood;
+}
+.box{
+    width: 40%;
+    height: 50%;
+    border: solid gray;
+    background-color: aqua;
+    display: inline-block;
+}
+#Docker{
+    margin: 5px;
+    left : 60%;
+    float: left;
+    padding: 5px;
+}
+#Podman{
+    margin: 5px;
+    left : 0%;
+    float: right;
+    padding: 5px;
+}
+img{
+    float: left;
+}
+
+
+footer{
+ background-color: chocolate;
+ clear: both;
+ text-align: center;
+
+
+}
